@@ -1,7 +1,7 @@
 # SQL_Murder_Mystery
 In this project, I wore the hat of a detective and was able to uncover the mystery of a murder case where I was able to detect both the murderer and the person who hired the murderer as well. It involved the  analysis of evidence and suspect data to help the police catch the killer in a murder case. Using my  SQL skills, I queried the database to uncover crucial clues and piece together the events surrounding the murder.
 
-The database consisted of the following tables:
+The database consisted of the following tables: 
 - Crime Scene Report
 - Drivers License
 - Facebook Events Check In
